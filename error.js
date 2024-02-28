@@ -1,4 +1,4 @@
 
 setTimeout(function(){
     alert("JSDHJSJS bromita amor, dale al botón. Pero me debes un beso :)")
-},8000)
+},6000)
